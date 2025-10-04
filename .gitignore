@@ -1,2 +1,5 @@
 # Ignore the bak file
 kitty.conf.bak
+
+# Ignore current them file
+current-theme.conf
